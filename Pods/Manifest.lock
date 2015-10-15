@@ -1,0 +1,10 @@
+PODS:
+  - UITableView+FDTemplateLayoutCell (1.3)
+
+DEPENDENCIES:
+  - UITableView+FDTemplateLayoutCell (~> 1.3)
+
+SPEC CHECKSUMS:
+  UITableView+FDTemplateLayoutCell: d5be6056b5060313f5955a2590ecd33142ad713d
+
+COCOAPODS: 0.38.2
